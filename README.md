@@ -1,8 +1,5 @@
 # A project on how the renewable energy could be useful in predicting/improving GDP and growth
 
-# Overview
-A report on how the renewable energy could be useful in predicting/improving GDP and growth
-
 # Executive summary
 Studies on Environmental Factors:
 This report studies environmental factors, primarily renewable energy, and their relationship with two variables – GDP per capita, and GDP per capita growth, over a period of 28 years (1991 to 2018). Due to the presence of many strong outliers for GDP per capita growth, the relationship was studied by converting it into a categorical variable (Acceptable growth).
