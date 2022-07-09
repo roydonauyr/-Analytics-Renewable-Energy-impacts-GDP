@@ -1,4 +1,4 @@
-# A project on how the renewable energy could be useful in predicting/improving GDP and growth
+A project on how the renewable energy could be useful in predicting/improving GDP and growth
 
 # Executive summary
 Studies on Environmental Factors:
