@@ -13,8 +13,10 @@ Overall dataset: Renewable electricity output’s importance increased over the 
 Developed Countries dataset: Renewable energy consumption’s importance increased 
 Developing Countries dataset: Both variables’ importance remained constant.
 Hence, Renewable energy consumption is a strong predictor for the GDP per capita of a country, and its importance in the developed countries model will likely increase over time.
+
 Logistic Regression, Categorical CART Model (Acceptable growth):
 The study was conducted using Logistic regression and categorical CART models. Just like above, we compared the models and found that CART has a better prediction accuracy for all datasets except for developing countries. Using CART and logistic models, the results are:
+
 CART:
 In general, environmental variables are strong predictors of Acceptable growth for all datasets with CO2 emissions being a relatively strong predictor.
 Overall dataset: Population total and nitrous oxide emissions are the two most significant variables. Moreover, both renewable energy variables are good predictors.
