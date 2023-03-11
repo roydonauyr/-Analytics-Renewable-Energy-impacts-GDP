@@ -1,3 +1,9 @@
+# Analytics On Renewable Energy
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP)
+
 A project on how the renewable energy could be useful in predicting/improving GDP and growth
 
 # Executive summary
